@@ -1,0 +1,10 @@
+#!/usr/bin/env python3
+
+import sys
+
+print('Meu nome é:', sys.argv[1], 'Minha cor favorita é:', sys.argv[2], 'Meu animal favorito é:', sys.argv[3], 'Minha atividade favorita é', sys.argv[4])
+
+
+
+
+
