@@ -1,0 +1,31 @@
+#!/usr/bin/env python3
+
+import sys
+
+print('My name: Claudio')
+
+print('My favorite color: Verde')
+
+activity = 'Natação'
+
+print('My favorite activity:', activity)
+
+animal = 'Gato'
+
+print('My favorite animal:', animal)
+
+name = 'Claudio'
+color = 'Verde'
+activity = 'Natação'
+animal = 'Gato'
+
+print(name, color, activity, animal)
+
+print(name + color + activity + animal)
+
+
+
+
+
+
+
